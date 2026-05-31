@@ -1,2 +1,4 @@
 # osmi-mental-health-analytics
 An end-to-end data analytics project using SQL and Power BI to evaluate workplace mental health trends and psychological safety metrics in the tech industry.
+Project Overview:
+This project provides a comprehensive, data-driven analysis of mental health trends in the tech industry using data from the Open Sourcing Mental Illness (OSMI) survey hosted on Kaggle. The goal is to uncover how corporate environments, company sizes, and demographic factors influence employee choices to seek treatment and disclose mental health struggles.By engineering a robust SQL pipeline for data extraction, transformation, and loading (ETL), and designing an interactive Power BI dashboard, this project delivers actionable insights into corporate wellness gaps and global healthcare adoption trends
