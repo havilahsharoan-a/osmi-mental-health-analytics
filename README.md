@@ -40,9 +40,13 @@ Benefit Mapping: Pinpoints exact gaps between costly corporate insurance spend a
 Behavioral Insights: Blends data governance rules with counseling methodologies to interpret employee sentiment objectively.
 
 OVERVIEW OF CORE SENTIMENT METRICS :
-1.Total Active Sample Size: 1,251 
+
+1.Total Active Sample Size: 1,251
+
 2.Global Respondents Industry Treatment Rate Baseline: 19.7%
+
 3.Global Manager Comfort Stigma Rate: Only 40.9% of workers feel comfortable speaking to supervisors.
+
 4.The Awareness Gap: 32.53% of the workforce is completely unaware of their existing mental health benefits.
 
  CORE STRUCTURAL DISCOVERIES:
